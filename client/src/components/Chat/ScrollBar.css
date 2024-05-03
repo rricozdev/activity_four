@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+    width: 6px; /* Ancho de la barra de desplazamiento */
+    height: 6px; /* Altura de la barra de desplazamiento (en caso de scrollbar horizontal) */
+  }
+  
+  /* Estilo del riel de la barra de desplazamiento */
+  ::-webkit-scrollbar-track {
+    background: #4b5563; /* Color de fondo del riel */
+  }
+  
+  /* Estilo del pulgar (::-webkit-scrollbar-thumb) de la barra de desplazamiento */
+  ::-webkit-scrollbar-thumb {
+    background: #6b7280; /* Color del pulgar */
+    border-radius: 3px; /* Borde redondeado del pulgar */
+  }
+  
+  /* Estilo del pulgar  de la barra de desplazamiento al pasar el cursor */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #9ca3af; /* Color del pulgar al pasar el cursor */
+  }
+  

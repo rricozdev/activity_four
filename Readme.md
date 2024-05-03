@@ -1,6 +1,6 @@
-# Chat en Tiempo Real con Socket.IO y Node.js
+# Chat en Tiempo Real con Node.js, Socket.IO y React.js
 
-Este proyecto consiste en el desarrollo de una aplicación de chat en tiempo real utilizando la biblioteca Socket.IO en Node.js. La aplicación permite a los usuarios enviar mensajes y recibir actualizaciones en tiempo real sin necesidad de recargar la página.
+Este proyecto consiste en el desarrollo de una aplicación de chat en tiempo real utilizando la biblioteca Socket.IO en Node.js. La aplicación permite a los usuarios enviar mensajes y recibir actualizaciones en tiempo real sin necesidad de recargar la página. Actividad realizada para la actividad 4 de la asignatura Programación Distribuida de la facultad de ingeniería en la carrera de ingeniería de software en el séptimo semestre (2024), de la Universidad de Cartagena del CTM.
 
 ## Características
 
@@ -63,7 +63,7 @@ npm run dev
 
 ![alt text](image-1.png)
 
-Se desplegará la interfaz del chat, para chatear debe abrir otra pestaña con la misma dirección http://localhost:5173, esto nos permitirá chatear entre diferentes usuarios.
+Cuando ejecutes la aplicación, se abrirá la interfaz del chat en tu navegador predeterminado. Para comenzar a chatear con otros usuarios, simplemente abre otra pestaña del navegador con la misma dirección: http://localhost:5173. Esto te permitirá interactuar y chatear con diferentes usuarios simultáneamente, creando una experiencia de chat en tiempo real dinámica y colaborativa.
 
 
 ![alt text](image.png)
